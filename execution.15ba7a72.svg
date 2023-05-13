@@ -9,4 +9,8 @@
   <rect x="70.65" y="46.475" width="26.175" height="4.3" rx=".65" transform="rotate(90 70.65 46.475)" fill="#fff" stroke="#282828" stroke-width=".7"/>
   <rect x="77.65" y="39.35" width="33.3" height="4.3" rx=".65" transform="rotate(90 77.65 39.35)" fill="#fff" stroke="#282828" stroke-width=".7"/>
   <rect x="84.65" y="30.35" width="42.3" height="4.3" rx=".65" transform="rotate(90 84.65 30.35)" fill="#fff" stroke="#282828" stroke-width=".7"/>
+  <path stroke="#282828" stroke-width=".5" d="M18.25 31v48m73.75.25H18"/>
+  <path d="m15.902 34 2.598-4.5 2.598 4.5h-5.196ZM89 76.902l4.5 2.598-4.5 2.598v-5.196Z" fill="#fff" stroke="#282828" stroke-width=".5"/>
+  <path d="M24.5 61c11-2.167 34.3-8.9 45.5-28.5" stroke="#282828" stroke-width=".5"/>
+  <path d="m66.781 32.781 4.5-2.598v5.196l-4.5-2.598Z" fill="#fff" stroke="#282828" stroke-width=".5"/>
 </svg>
