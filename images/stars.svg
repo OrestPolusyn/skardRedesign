@@ -1,39 +1,5 @@
 <svg width="1855" height="860" fill="none" xmlns="http://www.w3.org/2000/svg">
   <g opacity=".6" fill="#AFADFF">
-    <circle cx="2.5" cy="2.5" r="2.5"/>
-    <circle cx="900" cy="2" r="2"/>
-    <circle cx="452" cy="2" r="2"/>
-    <circle cx="1348" cy="2" r="1"/>
-    <circle cx="228" cy="2" r="2"/>
-    <circle cx="1124" cy="2" r="2"/>
-    <circle cx="676" cy="2" r="2"/>
-    <circle cx="1572" cy="2" r="1"/>
-    <circle cx="59" cy="2" r="1"/>
-    <circle cx="956" cy="2" r="2"/>
-    <circle cx="507.5" cy="2.5" r="2.5"/>
-    <circle cx="1404" cy="2" r="1"/>
-    <circle cx="283.5" cy="2.5" r="1.5"/>
-    <circle cx="1179.5" cy="2.5" r="1.5"/>
-    <circle cx="731.5" cy="2.5" r="1.5"/>
-    <circle cx="1628" cy="2" r="1"/>
-    <circle cx="116" cy="2" r="1"/>
-    <circle cx="1011.5" cy="2.5" r="2.5"/>
-    <circle cx="564" cy="2" r="2"/>
-    <circle cx="1459.5" cy="2.5" r="1.5"/>
-    <circle cx="339.5" cy="2.5" r="1.5"/>
-    <circle cx="1235.5" cy="2.5" r="1.5"/>
-    <circle cx="787.5" cy="2.5" r="1.5"/>
-    <circle cx="1683.5" cy="2.5" r="1.5"/>
-    <circle cx="1796.5" cy="2.5" r="1.5"/>
-    <circle cx="171.5" cy="2.5" r="1.5"/>
-    <circle cx="1067.5" cy="2.5" r="2.5"/>
-    <circle cx="620" cy="2" r="2"/>
-    <circle cx="1515.5" cy="2.5" r="1.5"/>
-    <circle cx="396" cy="2" r="2"/>
-    <circle cx="1292" cy="2" r="1"/>
-    <circle cx="843.5" cy="2.5" r="1.5"/>
-    <circle cx="1739.5" cy="2.5" r="1.5"/>
-    <circle cx="1853" cy="2" r="1"/>
     <circle cx="1852.5" cy="317.5" r="2.5" transform="rotate(-180 1852.5 317.5)"/>
     <circle cx="956" cy="318" r="2" transform="rotate(-180 956 318)"/>
     <circle cx="1404" cy="318" r="2" transform="rotate(-180 1404 318)"/>
