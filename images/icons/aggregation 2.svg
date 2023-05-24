@@ -1,0 +1,14 @@
+<svg width="110" height="110" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="m55 0 47.631 27.5v55L55 110 7.369 82.5v-55L55 0Z" fill="#fff"/>
+  <path d="M72 36.5h-7V34h9a2 2 0 0 1 2 2v18.5a1 1 0 0 0 1 1h8.5V58H77a1 1 0 0 0-1 1v18.5a2 2 0 0 1-2 2h-9V77h7a1 1 0 0 0 1-1V59a1 1 0 0 0-1-1h-7v-2.5h7a1 1 0 0 0 1-1v-17a1 1 0 0 0-1-1Zm-41.5 0h7V34h-9a2 2 0 0 0-2 2v18.5a1 1 0 0 1-1 1H17V58h8.5a1 1 0 0 1 1 1v18.5a2 2 0 0 0 2 2h9V77h-7a1 1 0 0 1-1-1V59a1 1 0 0 1 1-1h7v-2.5h-7a1 1 0 0 1-1-1v-17a1 1 0 0 1 1-1Z" fill="#F8C73B" stroke="#282828" stroke-width=".7" stroke-linecap="round"/>
+  <path d="M91.785 55.99a.65.65 0 0 1 0 1.02l-5.633 4.436a.65.65 0 0 1-1.052-.51v-8.871a.65.65 0 0 1 1.052-.51l5.633 4.434Zm-50 0a.65.65 0 0 1 0 1.02l-5.633 4.436a.65.65 0 0 1-1.052-.51v-8.871a.65.65 0 0 1 1.052-.51l5.633 4.434Zm0 22a.65.65 0 0 1 0 1.02l-5.633 4.436a.65.65 0 0 1-1.052-.51v-8.871a.65.65 0 0 1 1.052-.51l5.633 4.434Zm0-43a.65.65 0 0 1 0 1.02l-5.633 4.436a.65.65 0 0 1-1.052-.51v-8.871a.65.65 0 0 1 1.052-.51l5.633 4.434Z" fill="#F8C73B" stroke="#282828" stroke-width=".7"/>
+  <rect x="44.35" y="24.35" width="21.3" height="17.3" rx="3.65" fill="#F8C73B" stroke="#282828" stroke-width=".7"/>
+  <rect x="44.35" y="24.35" width="21.3" height="8.3" rx="3.65" stroke="#282828" stroke-width=".7"/>
+  <path fill="#282828" d="M50 36h1.999v2H50zm8 0h1.999v2H58zm-4 0h1.999v2H54z"/>
+  <rect x="44.35" y="46.35" width="21.3" height="17.3" rx="3.65" fill="#F8C73B" stroke="#282828" stroke-width=".7"/>
+  <rect x="44.35" y="46.35" width="21.3" height="8.3" rx="3.65" stroke="#282828" stroke-width=".7"/>
+  <path fill="#282828" d="M50 58h1.999v2H50zm8 0h1.999v2H58zm-4 0h1.999v2H54z"/>
+  <rect x="44.35" y="68.35" width="21.3" height="17.3" rx="3.65" fill="#F8C73B" stroke="#282828" stroke-width=".7"/>
+  <rect x="44.35" y="68.35" width="21.3" height="8.3" rx="3.65" stroke="#282828" stroke-width=".7"/>
+  <path fill="#282828" d="M50 80h1.999v2H50zm8 0h1.999v2H58zm-4 0h1.999v2H54z"/>
+</svg>
